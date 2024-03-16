@@ -1,0 +1,58 @@
+
+    [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Chicken Stir Fry",
+        "short_description": "A delicious and quick chicken stir fry packed with flavor.",
+        "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaves", "400 g mushroom"],
+        "preparing_time": "30 min",
+        "calories": "320 calories",
+        "recipe_image": "https://img.freepik.com/free-photo/chicken-stir-fry-vegetables_123827-21544.jpg?w=740&t=st=1710558454~exp=1710559054~hmac=ec3bbad1dcb6f115e14f7a16f2a299cd2179935102f9700ee3e5833f09b5ef9b"
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Vegetable Pasta",
+        "short_description": "A hearty vegetarian pasta dish filled with colorful veggies.",
+        "ingredients": ["300 g pasta", "2 bell peppers", "1 zucchini", "1 onion", "2 cloves garlic", "200 g cherry tomatoes"],
+        "preparing_time": "25 min",
+        "calories": "280 calories",
+        "recipe_image": "https://img.freepik.com/free-photo/penne-pasta-plate-with-sauce-tomato-mushroom-pepper_176474-6937.jpg?w=740&t=st=1710564993~exp=1710565593~hmac=926c450e964e1897524716938d2ef75ce47c842c718dfc0c20636f9a7a9a88b6"
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Salmon Salad",
+        "short_description": "A refreshing salad with grilled salmon and fresh vegetables.",
+        "ingredients": ["300 g salmon fillet", "100 g mixed greens", "1 cucumber", "1 avocado", "100 g cherry tomatoes"],
+        "preparing_time": "20 min",
+        "calories": "250 calories",
+        "recipe_image": "https://img.freepik.com/free-photo/healthy-salad-with-fish-baked-salmon-tomatoes-lime-lettuce-healthy-dinner_2829-4275.jpg?t=st=1710565227~exp=1710568827~hmac=7c40e091fcc51a1151b318e99b17e04ccaae2fd1fac0e67d0efe792948c100aa&w=740"
+      },
+      {
+        "recipe_id": 4,
+        "recipe_name": "Beef Tacos",
+        "short_description": "Authentic Mexican beef tacos with homemade salsa and guacamole.",
+        "ingredients": ["500 g beef mince", "1 onion", "2 cloves garlic", "1 tomato", "1 avocado", "1 lime", "8 taco shells"],
+        "preparing_time": "40 min",
+        "calories": "380 calories",
+        "recipe_image": "https://img.freepik.com/free-photo/mexican-tacos-with-meat-vegetables-red-onion_2829-8233.jpg?t=st=1710565332~exp=1710568932~hmac=dc014690a7a9c3a6e448d3de77fe229b6e6e804f7db55b1da93b9e395cc9238c&w=740"
+      },
+      {
+        "recipe_id": 5,
+        "recipe_name": "Spinach and Feta Stuffed Chicken Breast",
+        "short_description": "Juicy chicken breasts stuffed with spinach and feta cheese.",
+        "ingredients": ["4 chicken breasts", "100 g spinach", "100 g feta cheese", "2 cloves garlic", "1 lemon"],
+        "preparing_time": "35 min",
+        "calories": "290 calories",
+        "recipe_image": "https://img.freepik.com/free-photo/grilled-chicken-fillet-fresh-vegetable-salad-tomatoes-red-onion-arugula-chicken-meat-salad-healthy-food_2829-6940.jpg?t=st=1710565391~exp=1710568991~hmac=40d30e3618a385c0775d7cd487752cfb7fe4df67d41b7c83eac63e1028443e68&w=740"
+      },
+      {
+        "recipe_id": 6,
+        "recipe_name": "Quinoa Salad",
+        "short_description": "A nutritious salad featuring quinoa, vegetables, and a zesty dressing.",
+        "ingredients": ["200 g quinoa", "1 bell pepper", "1 cucumber", "1 carrot", "100 g feta cheese", "Handful of parsley"],
+        "preparing_time": "15 min",
+        "calories": "220 calories",
+        "recipe_image": "https://img.freepik.com/free-photo/front-view-tasty-vegetable-salad-inside-plate-with-fork-dark-background_179666-19406.jpg?t=st=1710565455~exp=1710569055~hmac=f8d5b9253015b0823ad6100f67d894d5ea1002f6836a09c0060d362c4e373077&w=740"
+      }
+    ]
+  

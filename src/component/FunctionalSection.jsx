@@ -1,9 +1,11 @@
-import { ToastContainer } from "react-toastify"
+
 import { useState } from "react";
 import { useEffect } from "react";
 import Cart from "./Cart";
 import SideBar from "./SideBar";
+import { ToastContainer, toast } from "react-toastify"
 import 'react-toastify/dist/ReactToastify.css';
+
 
 
 const FunctionalSection = () => {
@@ -21,10 +23,10 @@ const FunctionalSection = () => {
         const isExist= cart.find(item=>item.recipe_id==recipe.recipe_id)
         if(!isExist){
             setCart([...cart,recipe])
-            toast("Wow add to cooking!");
+            toast("Wow cook added!");
         }
         else{
-            toast.warn(content,"Allredy cooking !");
+            toast.warn("Alredy cooked!");
         }  
 
     }
@@ -32,8 +34,8 @@ const FunctionalSection = () => {
    
 
     return (
-        <div className="flex justify-between gap-8">
-            <div className="w-2/3 rounded-2xl border grid grid-cols-2  gap-5">
+        <div className="flex flex-col md:flex-row justify-between mb-20 gap-8">
+            <div className="md:w-2/3 rounded-2xl border grid md:grid-cols-2  gap-5">
                 {
                     recipe.map((r,i)=>(
                     <Cart handleCoock={handleCoock} key={i} recipe={r}></Cart>

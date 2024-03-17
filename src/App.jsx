@@ -1,4 +1,5 @@
 
+
 import Banner from "./component/Banner"
 import FunctionalSection from "./component/FunctionalSection"
 import Nav from "./component/Nav"

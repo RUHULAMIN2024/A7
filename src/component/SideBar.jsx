@@ -10,7 +10,7 @@ const SideBar = ({cart,setCart}) => {
         const newCart= cart.filter(item=>item.recipe_id!=id)
         setCart(newCart)
     }
-    console.log(cookingCart)
+    
 
     return (
         <div className="rounded-2xl border">
